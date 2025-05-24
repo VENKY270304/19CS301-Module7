@@ -1,6 +1,6 @@
 # 19CS301-Module7
-Reg No: 212223020021
-Name: Ranjith P
+Reg No: 212222040177
+Name: Venkatesan M
 
 EX: 7.1 RECURSION
 ### Aim: To Write a Python Program to find the sum of all digits in a number using recursion
